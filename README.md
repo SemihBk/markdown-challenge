@@ -1,7 +1,7 @@
 # Semih Bekki
 
 ```
-* L'homme a besoin de ce qu'il y a de pire en lui s'il veut parvenir à ce qu'il a de meilleur. *
+_L'homme a besoin de ce qu'il y a de pire en lui s'il veut parvenir à ce qu'il a de meilleur._
 ```
 
 ![Ma photo](SB-s.jpg)
@@ -15,10 +15,6 @@
 | Favorite food       | Lahmacuns :wink: |
 | Pinneapple on pizza |     [JAMAIS]     |
 
-- Birthday: 11/05
-- Favorite color : Parfois bleu, parfois rouge, cela dépend de l'humeur.
-- Favorite food : Lahmacuns :wink:
-- [ ] Pinneapple on pizza : JAMAIS.
 
 ### HOBBIES
 - Musique :musical_note:
