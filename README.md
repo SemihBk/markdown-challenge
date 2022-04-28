@@ -1,6 +1,6 @@
 # Semih Bekki
 
 ```
-> Koul 3atra fiha kheir
+Koul 3atra fiha kheir
 ```
 
