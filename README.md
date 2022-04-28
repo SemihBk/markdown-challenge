@@ -40,5 +40,5 @@ On peut compter sur moi en période d'angoisse et d'anxiété.
 
 #### TL;DR
 
-:arrow_left: [previous](https://github.com/SemihBk/markdown-challenge)  SEMIH BEKKI [after](https://github.com/SemihBk/markdown-challenge) :arrow_right:	
+:arrow_left: [previous](https://github.com/assaleau/markdown-challenge)  SEMIH BEKKI [after](https://github.com/llyllyra/markdown-challenge) :arrow_right:	
 
