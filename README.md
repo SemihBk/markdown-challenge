@@ -35,10 +35,10 @@ Pour cela, il faut faire preuve de Raison et non de ressentiments.
 Il nous arrive de ne pas pouvoir réussir à atteindre la sérénité de l'âme pour utiliser sa Raison, dans ce cas-là, il est souvent utile d'être accompagné pour réussir à y parvenir.
 On peut compter sur moi en période d'angoisse et d'anxiété.
 
-### A funny story
+### A funny story ab me
 
 
 #### TL;DR
 
-:arrow_left: [previous](https://github.com/assaleau/markdown-challenge)  SEMIH BEKKI [after](https://github.com/llyllyra/markdown-challenge) :arrow_right:	
+:arrow_left: [previous](https://github.com/allaseau/markdown-challenge) || SEMIH BEKKI || [after](https://github.com/llyllyra/markdown-challenge) :arrow_right:	
 
