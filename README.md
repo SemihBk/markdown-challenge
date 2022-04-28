@@ -17,12 +17,12 @@
 
 
 ### HOBBIES
-- Musique :musical_note:
-- Musculation :muscle:
-- Philosophie :brain:
+- :musical_note: Musique
+- :muscle: Musculation
+- :brain: Philosophie
   - Nietzsche
-- Histoire :open_book:
-- Jeux vidéos (à certaines périodes) :video_game:
+- :open_book: Histoire
+- :video_game: Jeux vidéos (à certaines périodes)
   - Portal 2
   - Rocket League
   - FIFA
