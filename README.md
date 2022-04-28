@@ -1,8 +1,6 @@
 # Semih Bekki
 
-```
-_L'homme a besoin de ce qu'il y a de pire en lui s'il veut parvenir à ce qu'il a de meilleur._
-```
+*L'homme a besoin de ce qu'il y a de pire en lui s'il veut parvenir à ce qu'il a de meilleur.* - Nietzsche
 
 ![Ma photo](SB-s.jpg)
 
@@ -10,6 +8,8 @@ _L'homme a besoin de ce qu'il y a de pire en lui s'il veut parvenir à ce qu'il 
 
 ### Quelques infos personnelles...
 
+|        Ask          |      Answer      |
+|        --           |        --        |
 | Birthday            |      11/05       |
 | Favorite color      |    bleue nuit    |
 | Favorite food       | Lahmacuns :wink: |
@@ -36,6 +36,7 @@ Il nous arrive de ne pas pouvoir réussir à atteindre la sérénité de l'âme 
 On peut compter sur moi en période d'angoisse et d'anxiété.
 
 ### A funny story
+
 
 #### TL;DR
 
